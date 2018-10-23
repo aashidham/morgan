@@ -1,5 +1,5 @@
 {
-  "name": "morgan",
+  "name": "aashidham-morgan",
   "description": "HTTP request logger middleware for node.js",
   "version": "1.9.1",
   "contributors": [
